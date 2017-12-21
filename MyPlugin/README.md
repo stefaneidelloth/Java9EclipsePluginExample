@@ -17,4 +17,9 @@ module MyPlugin {
 
 * Edit Java Build Path: Remove Plug-in Dependencies from Classpath and add them to the Modulepath 
 
-=> swt imports do not work any more, see SampleView.java
+=> swt imports do not work any more, see SampleView.java or this related SO question:
+
+https://stackoverflow.com/questions/47773079/how-to-add-org-eclipse-swt-and-other-plugin-dependencies-as-an-automatic-java9
+
+
+![alt text](https://i.stack.imgur.com/3akm4.png)
