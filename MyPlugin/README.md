@@ -1,3 +1,8 @@
+This provides an example Eclipse Plug-in project for following bug:
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=529089
+
+Steps to reproduce:
+
 * Install Java JDK 9.0.1 on Windows7 (after uninstalling previous versions)
 http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
 
